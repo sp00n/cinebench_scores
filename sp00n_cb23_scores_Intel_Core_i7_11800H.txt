@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2022-06-06T00:10:27.114Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Core i7 11800H
+CORES=8
+THREADS=16
+MHZ=1900.000000
+MHZ_ESTIMATE=4600
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1489
+CBCPUX=12059
+CBCPU1PEAK=1489
+CBCPUXPEAK=12059
+CBCPU1ARRAY={1489}
+CBCPUXARRAY={12059}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

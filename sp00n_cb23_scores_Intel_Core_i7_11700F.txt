@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2022-06-06T00:10:27.114Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Core i7 11700F
+CORES=8
+THREADS=16
+MHZ=2500.000000
+MHZ_ESTIMATE=4900
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1532
+CBCPUX=11027
+CBCPU1PEAK=1532
+CBCPUXPEAK=11027
+CBCPU1ARRAY={1532}
+CBCPUXARRAY={11027}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

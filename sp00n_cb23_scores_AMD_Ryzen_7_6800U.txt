@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2022-06-06T00:10:27.114Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=AMD Ryzen 7 6800U
+CORES=8
+THREADS=16
+MHZ=2700.000000
+MHZ_ESTIMATE=4700
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1460
+CBCPUX=10031
+CBCPU1PEAK=1460
+CBCPUXPEAK=10031
+CBCPU1ARRAY={1460}
+CBCPUXARRAY={10031}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

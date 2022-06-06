@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2022-06-06T00:10:27.113Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=AMD Ryzen 5 2600
+CORES=6
+THREADS=12
+MHZ=3400.000000
+MHZ_ESTIMATE=3900
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1000
+CBCPUX=7089
+CBCPU1PEAK=1000
+CBCPUXPEAK=7089
+CBCPU1ARRAY={1000}
+CBCPUXARRAY={7089}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2022-06-06T00:10:27.114Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Core i7 12700
+CORES=12
+THREADS=20
+MHZ=3600.000000
+MHZ_ESTIMATE=4900
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1850
+CBCPUX=15749
+CBCPU1PEAK=1850
+CBCPUXPEAK=15749
+CBCPU1ARRAY={1850}
+CBCPUXARRAY={15749}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

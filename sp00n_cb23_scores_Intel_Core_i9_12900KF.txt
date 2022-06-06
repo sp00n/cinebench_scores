@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2022-06-06T00:10:27.114Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Core i9 12900KF
+CORES=16
+THREADS=24
+MHZ=3200.000000
+MHZ_ESTIMATE=5200
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1945
+CBCPUX=26877
+CBCPU1PEAK=1945
+CBCPUXPEAK=26877
+CBCPU1ARRAY={1945}
+CBCPUXARRAY={26877}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2022-06-06T00:10:27.114Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Core i7 1195G7
+CORES=4
+THREADS=8
+MHZ=1300.000000
+MHZ_ESTIMATE=5000
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1505
+CBCPUX=5870
+CBCPU1PEAK=1505
+CBCPUXPEAK=5870
+CBCPU1ARRAY={1505}
+CBCPUXARRAY={5870}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

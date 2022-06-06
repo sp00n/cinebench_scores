@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2022-06-06T00:10:27.114Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=AMD Ryzen 7 5800X
+CORES=8
+THREADS=16
+MHZ=3800.000000
+MHZ_ESTIMATE=4700
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1589
+CBCPUX=15166.5
+CBCPU1PEAK=1596
+CBCPUXPEAK=15228
+CBCPU1ARRAY={1582,1596}
+CBCPUXARRAY={15105,15228}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

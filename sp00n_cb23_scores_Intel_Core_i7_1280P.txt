@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2022-06-06T00:10:27.114Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Core i7 1280P
+CORES=14
+THREADS=20
+MHZ=1800.000000
+MHZ_ESTIMATE=4800
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1572
+CBCPUX=11385
+CBCPU1PEAK=1572
+CBCPUXPEAK=11385
+CBCPU1ARRAY={1572}
+CBCPUXARRAY={11385}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

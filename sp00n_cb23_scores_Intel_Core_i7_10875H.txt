@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2022-06-06T00:10:27.114Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Core i7 10875H
+CORES=8
+THREADS=16
+MHZ=2300.000000
+MHZ_ESTIMATE=5100
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1231
+CBCPUX=8783
+CBCPU1PEAK=1231
+CBCPUXPEAK=8783
+CBCPU1ARRAY={1231}
+CBCPUXARRAY={8783}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

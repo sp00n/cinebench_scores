@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2022-06-06T00:10:27.114Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=AMD Threadripper 1900X
+CORES=8
+THREADS=16
+MHZ=3800.000000
+MHZ_ESTIMATE=inf
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1005
+CBCPUX=8979
+CBCPU1PEAK=1005
+CBCPUXPEAK=8979
+CBCPU1ARRAY={1005}
+CBCPUXARRAY={8979}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2022-06-06T00:10:27.113Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=AMD Ryzen 5 6600U
+CORES=6
+THREADS=12
+MHZ=2900.000000
+MHZ_ESTIMATE=4500
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1410
+CBCPUX=7922
+CBCPU1PEAK=1410
+CBCPUXPEAK=7922
+CBCPU1ARRAY={1410}
+CBCPUXARRAY={7922}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown
