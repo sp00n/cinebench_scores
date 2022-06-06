@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2022-06-06T13:42:39.921Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Xeon E3-1240L v3
+CORES=4
+THREADS=8
+MHZ=2000.000000
+MHZ_ESTIMATE=3000
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=752
+CBCPUX=3427
+CBCPU1PEAK=752
+CBCPUXPEAK=3427
+CBCPU1ARRAY={752}
+CBCPUXARRAY={3427}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

@@ -2,7 +2,7 @@ COMMENT=Values taken from:
 COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
 COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
 COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
-COMMENT=Generated at 2022-06-06T00:10:27.113Z
+COMMENT=Generated at 2022-06-06T13:42:39.921Z
 COMMENT=-------------------------------------------------
 
 PROCESSOR=AMD Ryzen 5 2600X

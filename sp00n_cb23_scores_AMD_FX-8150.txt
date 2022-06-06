@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2022-06-06T13:42:39.920Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=AMD FX-8150
+CORES=4
+THREADS=8
+MHZ=3600.000000
+MHZ_ESTIMATE=4200
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=505
+CBCPUX=2826
+CBCPU1PEAK=505
+CBCPUXPEAK=2826
+CBCPU1ARRAY={505}
+CBCPUXARRAY={2826}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

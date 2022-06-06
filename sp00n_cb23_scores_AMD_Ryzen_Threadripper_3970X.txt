@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2022-06-06T13:42:39.921Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=AMD Ryzen Threadripper 3970X
+CORES=32
+THREADS=64
+MHZ=3700.000000
+MHZ_ESTIMATE=4500
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1284
+CBCPUX=40961
+CBCPU1PEAK=1284
+CBCPUXPEAK=40961
+CBCPU1ARRAY={1284}
+CBCPUXARRAY={40961}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

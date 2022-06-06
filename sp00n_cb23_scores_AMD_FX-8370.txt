@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2022-06-06T13:42:39.920Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=AMD FX-8370
+CORES=4
+THREADS=8
+MHZ=4000.000000
+MHZ_ESTIMATE=4300
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=548
+CBCPUX=3411
+CBCPU1PEAK=548
+CBCPUXPEAK=3411
+CBCPU1ARRAY={548}
+CBCPUXARRAY={3411}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

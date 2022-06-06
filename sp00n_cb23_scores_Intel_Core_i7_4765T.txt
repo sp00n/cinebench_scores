@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2022-06-06T13:42:39.921Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Core i7 4765T
+CORES=4
+THREADS=8
+MHZ=2000.000000
+MHZ_ESTIMATE=3000
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=745
+CBCPUX=3109
+CBCPU1PEAK=745
+CBCPUXPEAK=3109
+CBCPU1ARRAY={745}
+CBCPUXARRAY={3109}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

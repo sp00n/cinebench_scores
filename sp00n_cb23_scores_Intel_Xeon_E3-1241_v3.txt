@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2022-06-06T13:42:39.921Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Xeon E3-1241 v3
+CORES=4
+THREADS=8
+MHZ=3500.000000
+MHZ_ESTIMATE=3900
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=971
+CBCPUX=4522
+CBCPU1PEAK=971
+CBCPUXPEAK=4522
+CBCPU1ARRAY={971}
+CBCPUXARRAY={4522}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

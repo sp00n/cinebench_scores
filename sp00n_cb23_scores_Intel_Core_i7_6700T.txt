@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2022-06-06T13:42:39.921Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Core i7 6700T
+CORES=4
+THREADS=8
+MHZ=2800.000000
+MHZ_ESTIMATE=3600
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=963
+CBCPUX=4720
+CBCPU1PEAK=963
+CBCPUXPEAK=4720
+CBCPU1ARRAY={963}
+CBCPUXARRAY={4720}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

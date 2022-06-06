@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2022-06-06T13:42:39.921Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Core i3 6300
+CORES=2
+THREADS=4
+MHZ=3800.000000
+MHZ_ESTIMATE=3800
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1031
+CBCPUX=2660
+CBCPU1PEAK=1031
+CBCPUXPEAK=2660
+CBCPU1ARRAY={1031}
+CBCPUXARRAY={2660}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

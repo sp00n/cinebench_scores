@@ -10,3 +10,5 @@ Example: `E:\_Overclock\Cinebench_r23\cb_ranking\`
 https://www.cgdirector.com/cinebench-r23-scores-updated-results/
 
 https://nanoreview.net/en/cpu-list/cinebench-scores
+
+https://www.anandtech.com/bench/CPU-2020/2976

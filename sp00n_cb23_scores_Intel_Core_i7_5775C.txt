@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2022-06-06T13:42:39.921Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Core i7 5775C
+CORES=4
+THREADS=8
+MHZ=3300.000000
+MHZ_ESTIMATE=3700
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=947
+CBCPUX=4664
+CBCPU1PEAK=947
+CBCPUXPEAK=4664
+CBCPU1ARRAY={947}
+CBCPUXARRAY={4664}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown
