@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.421Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Core i7 13650HX
+CORES=14
+THREADS=20
+MHZ=2600.000000
+MHZ_ESTIMATE=4900
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1884
+CBCPUX=21176
+CBCPU1PEAK=1884
+CBCPUXPEAK=21176
+CBCPU1ARRAY={1884}
+CBCPUXARRAY={21176}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

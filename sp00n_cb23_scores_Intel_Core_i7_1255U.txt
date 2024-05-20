@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.421Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Core i7 1255U
+CORES=10
+THREADS=12
+MHZ=1700.000000
+MHZ_ESTIMATE=4700
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1669
+CBCPUX=8335
+CBCPU1PEAK=1669
+CBCPUXPEAK=8335
+CBCPU1ARRAY={1669}
+CBCPUXARRAY={8335}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

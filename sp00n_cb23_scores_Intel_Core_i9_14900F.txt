@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.422Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Core i9 14900F
+CORES=24
+THREADS=32
+MHZ=2000.000000
+MHZ_ESTIMATE=5800
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=2256
+CBCPUX=36764
+CBCPU1PEAK=2256
+CBCPUXPEAK=36764
+CBCPU1ARRAY={2256}
+CBCPUXARRAY={36764}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.421Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Core i5 14600
+CORES=14
+THREADS=20
+MHZ=2700.000000
+MHZ_ESTIMATE=5200
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1969
+CBCPUX=24164
+CBCPU1PEAK=1969
+CBCPUXPEAK=24164
+CBCPU1ARRAY={1969}
+CBCPUXARRAY={24164}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

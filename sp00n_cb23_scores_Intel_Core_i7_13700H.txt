@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.421Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Core i7 13700H
+CORES=14
+THREADS=20
+MHZ=2400.000000
+MHZ_ESTIMATE=5000
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1886
+CBCPUX=17738
+CBCPU1PEAK=1886
+CBCPUXPEAK=17738
+CBCPU1ARRAY={1886}
+CBCPUXARRAY={17738}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

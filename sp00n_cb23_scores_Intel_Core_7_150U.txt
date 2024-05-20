@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.420Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Core 7 150U
+CORES=10
+THREADS=12
+MHZ=1800.000000
+MHZ_ESTIMATE=5400
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1904
+CBCPUX=9613
+CBCPU1PEAK=1904
+CBCPUXPEAK=9613
+CBCPU1ARRAY={1904}
+CBCPUXARRAY={9613}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

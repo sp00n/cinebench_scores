@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.419Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=AMD Ryzen 3 3200G
+CORES=4
+THREADS=4
+MHZ=3600.000000
+MHZ_ESTIMATE=4000
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=946
+CBCPUX=3344
+CBCPU1PEAK=946
+CBCPUXPEAK=3344
+CBCPU1ARRAY={946}
+CBCPUXARRAY={3344}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

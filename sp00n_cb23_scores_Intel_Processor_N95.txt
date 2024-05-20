@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.422Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Processor N95
+CORES=4
+THREADS=4
+MHZ=.000000
+MHZ_ESTIMATE=inf
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=915
+CBCPUX=2777
+CBCPU1PEAK=915
+CBCPUXPEAK=2777
+CBCPU1ARRAY={915}
+CBCPUXARRAY={2777}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

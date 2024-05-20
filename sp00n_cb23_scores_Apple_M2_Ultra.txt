@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.420Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Apple M2 Ultra
+CORES=24
+THREADS=24
+MHZ=3500.000000
+MHZ_ESTIMATE=3500
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1741
+CBCPUX=29150
+CBCPU1PEAK=1741
+CBCPUXPEAK=29150
+CBCPU1ARRAY={1741}
+CBCPUXARRAY={29150}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.421Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Core i3 N300
+CORES=8
+THREADS=8
+MHZ=.000000
+MHZ_ESTIMATE=inf
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=515
+CBCPUX=2546
+CBCPU1PEAK=515
+CBCPUXPEAK=2546
+CBCPU1ARRAY={515}
+CBCPUXARRAY={2546}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

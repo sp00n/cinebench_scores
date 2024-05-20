@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.421Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Core i5 12600H
+CORES=12
+THREADS=16
+MHZ=2700.000000
+MHZ_ESTIMATE=4500
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1773
+CBCPUX=13782
+CBCPU1PEAK=1773
+CBCPUXPEAK=13782
+CBCPU1ARRAY={1773}
+CBCPUXARRAY={13782}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

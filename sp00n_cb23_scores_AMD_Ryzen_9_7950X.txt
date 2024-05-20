@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.420Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=AMD Ryzen 9 7950X
+CORES=16
+THREADS=32
+MHZ=4500.000000
+MHZ_ESTIMATE=5700
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=2020.75
+CBCPUX=37959.25
+CBCPU1PEAK=2067
+CBCPUXPEAK=38329
+CBCPU1ARRAY={2067,2059,2028,1929}
+CBCPUXARRAY={38291,38165,37052,38329}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

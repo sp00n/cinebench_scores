@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.419Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=AMD Ryzen 5 5625U
+CORES=6
+THREADS=12
+MHZ=2300.000000
+MHZ_ESTIMATE=4300
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1383
+CBCPUX=8175
+CBCPU1PEAK=1383
+CBCPUXPEAK=8175
+CBCPU1ARRAY={1383}
+CBCPUXARRAY={8175}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

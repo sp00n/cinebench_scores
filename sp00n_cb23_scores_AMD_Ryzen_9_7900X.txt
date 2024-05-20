@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.420Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=AMD Ryzen 9 7900X
+CORES=12
+THREADS=24
+MHZ=4700.000000
+MHZ_ESTIMATE=5600
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=2027.5
+CBCPUX=29468.5
+CBCPU1PEAK=2034
+CBCPUXPEAK=29579
+CBCPU1ARRAY={2034,2021}
+CBCPUXARRAY={29358,29579}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

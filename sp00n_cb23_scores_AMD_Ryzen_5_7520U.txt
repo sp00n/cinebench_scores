@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.419Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=AMD Ryzen 5 7520U
+CORES=4
+THREADS=8
+MHZ=2800.000000
+MHZ_ESTIMATE=4300
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1172
+CBCPUX=5163
+CBCPU1PEAK=1172
+CBCPUXPEAK=5163
+CBCPU1ARRAY={1172}
+CBCPUXARRAY={5163}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

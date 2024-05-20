@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.421Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Core i7 11370H
+CORES=4
+THREADS=8
+MHZ=3000.000000
+MHZ_ESTIMATE=4800
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1531
+CBCPUX=5767
+CBCPU1PEAK=1531
+CBCPUXPEAK=5767
+CBCPU1ARRAY={1531}
+CBCPUXARRAY={5767}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

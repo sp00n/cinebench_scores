@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.421Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Core i5 12450H
+CORES=8
+THREADS=12
+MHZ=2000.000000
+MHZ_ESTIMATE=4400
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1594
+CBCPUX=9959
+CBCPU1PEAK=1594
+CBCPUXPEAK=9959
+CBCPU1ARRAY={1594}
+CBCPUXARRAY={9959}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

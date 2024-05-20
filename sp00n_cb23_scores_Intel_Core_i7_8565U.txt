@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.421Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Core i7 8565U
+CORES=4
+THREADS=8
+MHZ=1800.000000
+MHZ_ESTIMATE=4600
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1093
+CBCPUX=3100
+CBCPU1PEAK=1093
+CBCPUXPEAK=3100
+CBCPU1ARRAY={1093}
+CBCPUXARRAY={3100}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

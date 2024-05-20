@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.422Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Pentium Silver N5000
+CORES=4
+THREADS=4
+MHZ=1100.000000
+MHZ_ESTIMATE=1100
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=441
+CBCPUX=1236
+CBCPU1PEAK=441
+CBCPUXPEAK=1236
+CBCPU1ARRAY={441}
+CBCPUXARRAY={1236}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

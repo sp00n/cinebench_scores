@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.419Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=AMD Ryzen 7 7735HS
+CORES=8
+THREADS=16
+MHZ=3200.000000
+MHZ_ESTIMATE=4750
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1556
+CBCPUX=13630
+CBCPU1PEAK=1556
+CBCPUXPEAK=13630
+CBCPU1ARRAY={1556}
+CBCPUXARRAY={13630}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

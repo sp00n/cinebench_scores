@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.420Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Core 5 120U
+CORES=10
+THREADS=12
+MHZ=1400.000000
+MHZ_ESTIMATE=5000
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1881
+CBCPUX=9158
+CBCPU1PEAK=1881
+CBCPUXPEAK=9158
+CBCPU1ARRAY={1881}
+CBCPUXARRAY={9158}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

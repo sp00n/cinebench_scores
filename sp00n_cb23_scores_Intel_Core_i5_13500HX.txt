@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.421Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Core i5 13500HX
+CORES=14
+THREADS=20
+MHZ=2500.000000
+MHZ_ESTIMATE=4700
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1860
+CBCPUX=18264
+CBCPU1PEAK=1860
+CBCPUXPEAK=18264
+CBCPU1ARRAY={1860}
+CBCPUXARRAY={18264}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

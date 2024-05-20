@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.421Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Core i5 1145G7
+CORES=4
+THREADS=8
+MHZ=1100.000000
+MHZ_ESTIMATE=4400
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1399
+CBCPUX=4801
+CBCPU1PEAK=1399
+CBCPUXPEAK=4801
+CBCPU1ARRAY={1399}
+CBCPUXARRAY={4801}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

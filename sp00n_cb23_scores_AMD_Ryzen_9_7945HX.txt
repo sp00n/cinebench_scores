@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.420Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=AMD Ryzen 9 7945HX
+CORES=16
+THREADS=32
+MHZ=2500.000000
+MHZ_ESTIMATE=5400
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1963
+CBCPUX=34581
+CBCPU1PEAK=1963
+CBCPUXPEAK=34581
+CBCPU1ARRAY={1963}
+CBCPUXARRAY={34581}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

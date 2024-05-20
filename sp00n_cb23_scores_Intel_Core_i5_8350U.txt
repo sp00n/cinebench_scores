@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.421Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Core i5 8350U
+CORES=4
+THREADS=8
+MHZ=1700.000000
+MHZ_ESTIMATE=3600
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=807
+CBCPUX=2498
+CBCPU1PEAK=807
+CBCPUXPEAK=2498
+CBCPU1ARRAY={807}
+CBCPUXARRAY={2498}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

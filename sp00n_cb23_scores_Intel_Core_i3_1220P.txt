@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.420Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Core i3 1220P
+CORES=10
+THREADS=12
+MHZ=1500.000000
+MHZ_ESTIMATE=4400
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1525
+CBCPUX=7516
+CBCPU1PEAK=1525
+CBCPUXPEAK=7516
+CBCPU1ARRAY={1525}
+CBCPUXARRAY={7516}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.419Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=AMD Ryzen 5 8600G
+CORES=6
+THREADS=12
+MHZ=4300.000000
+MHZ_ESTIMATE=5000
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1779.5
+CBCPUX=13529
+CBCPU1PEAK=1799
+CBCPUXPEAK=13634
+CBCPU1ARRAY={1799,1760}
+CBCPUXARRAY={13634,13424}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

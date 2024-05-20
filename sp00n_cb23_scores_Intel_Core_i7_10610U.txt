@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.421Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Core i7 10610U
+CORES=4
+THREADS=8
+MHZ=800.000000
+MHZ_ESTIMATE=4900
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1218
+CBCPUX=4071
+CBCPU1PEAK=1218
+CBCPUXPEAK=4071
+CBCPU1ARRAY={1218}
+CBCPUXARRAY={4071}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

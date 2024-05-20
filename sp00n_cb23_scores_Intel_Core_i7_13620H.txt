@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.421Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Core i7 13620H
+CORES=10
+THREADS=16
+MHZ=2400.000000
+MHZ_ESTIMATE=4900
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1811
+CBCPUX=15517
+CBCPU1PEAK=1811
+CBCPUXPEAK=15517
+CBCPU1ARRAY={1811}
+CBCPUXARRAY={15517}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

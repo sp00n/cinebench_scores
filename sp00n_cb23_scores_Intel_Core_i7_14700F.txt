@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.421Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Core i7 14700F
+CORES=20
+THREADS=28
+MHZ=2100.000000
+MHZ_ESTIMATE=5400
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=2099
+CBCPUX=33438
+CBCPU1PEAK=2099
+CBCPUXPEAK=33438
+CBCPU1ARRAY={2099}
+CBCPUXARRAY={33438}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

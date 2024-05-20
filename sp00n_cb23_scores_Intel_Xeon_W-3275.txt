@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.422Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Xeon W-3275
+CORES=28
+THREADS=56
+MHZ=3400.000000
+MHZ_ESTIMATE=4400
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1107
+CBCPUX=28051
+CBCPU1PEAK=1107
+CBCPUXPEAK=28051
+CBCPU1ARRAY={1107}
+CBCPUXARRAY={28051}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.419Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=AMD Ryzen 7 7735U
+CORES=8
+THREADS=16
+MHZ=2700.000000
+MHZ_ESTIMATE=4750
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1496
+CBCPUX=10107
+CBCPU1PEAK=1496
+CBCPUXPEAK=10107
+CBCPU1ARRAY={1496}
+CBCPUXARRAY={10107}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

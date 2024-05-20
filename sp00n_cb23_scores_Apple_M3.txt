@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.420Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Apple M3
+CORES=8
+THREADS=8
+MHZ=4050.000000
+MHZ_ESTIMATE=4050
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1909
+CBCPUX=10497
+CBCPU1PEAK=1909
+CBCPUXPEAK=10497
+CBCPU1ARRAY={1909}
+CBCPUXARRAY={10497}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

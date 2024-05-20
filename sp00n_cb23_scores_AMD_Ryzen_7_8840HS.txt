@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.419Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=AMD Ryzen 7 8840HS
+CORES=8
+THREADS=16
+MHZ=3300.000000
+MHZ_ESTIMATE=5100
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1692
+CBCPUX=16278
+CBCPU1PEAK=1692
+CBCPUXPEAK=16278
+CBCPU1ARRAY={1692}
+CBCPUXARRAY={16278}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

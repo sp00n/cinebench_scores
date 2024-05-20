@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.419Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=AMD Ryzen 5 7600X
+CORES=6
+THREADS=12
+MHZ=4700.000000
+MHZ_ESTIMATE=5300
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1961.3333333333333
+CBCPUX=15259.333333333334
+CBCPU1PEAK=1970
+CBCPUXPEAK=15350
+CBCPU1ARRAY={1970,1963,1951}
+CBCPUXARRAY={15224,15350,15204}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

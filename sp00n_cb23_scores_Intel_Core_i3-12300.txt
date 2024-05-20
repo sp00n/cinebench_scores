@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.421Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Core i3-12300
+CORES=4
+THREADS=8
+MHZ=3500.000000
+MHZ_ESTIMATE=4400
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1607
+CBCPUX=7900
+CBCPU1PEAK=1607
+CBCPUXPEAK=7900
+CBCPU1ARRAY={1607}
+CBCPUXARRAY={7900}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

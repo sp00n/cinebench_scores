@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.422Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Core Ultra 7 155H
+CORES=16
+THREADS=22
+MHZ=1400.000000
+MHZ_ESTIMATE=4800
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1758
+CBCPUX=14876
+CBCPU1PEAK=1758
+CBCPUXPEAK=14876
+CBCPU1ARRAY={1758}
+CBCPUXARRAY={14876}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown

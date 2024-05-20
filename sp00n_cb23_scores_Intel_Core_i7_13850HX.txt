@@ -1,0 +1,23 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-05-20T18:34:25.421Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Core i7 13850HX
+CORES=20
+THREADS=28
+MHZ=2100.000000
+MHZ_ESTIMATE=5300
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=2049
+CBCPUX=26183
+CBCPU1PEAK=2049
+CBCPUXPEAK=26183
+CBCPU1ARRAY={2049}
+CBCPUXARRAY={26183}
+C4DINFO=
+C4DVERSION=23.200
+C4DBUILDID=Unknown
