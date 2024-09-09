@@ -1,0 +1,24 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=https://www.cpu-monkey.com/en/cpu_benchmark-cinebench_r23_multi_core
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-09-09T01:06:54.898Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=AMD Epyc 7351 [Review Score]
+CORES=16
+THREADS=32
+MHZ=2400.000000
+MHZ_ESTIMATE=2900
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=NaN
+CBCPUX=17401
+CBCPU1PEAK=NaN
+CBCPUXPEAK=17401
+CBCPU1ARRAY={NaN}
+CBCPUXARRAY={17401}
+C4DINFO=https://github.com/sp00n/cb23_scores
+C4DVERSION=23.200
+C4DBUILDID=RBBenchmark330542

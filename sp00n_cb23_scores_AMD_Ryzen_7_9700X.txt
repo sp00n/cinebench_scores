@@ -1,0 +1,24 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=https://www.cpu-monkey.com/en/cpu_benchmark-cinebench_r23_multi_core
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-09-09T01:06:54.899Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=AMD Ryzen 7 9700X [Review Score]
+CORES=8
+THREADS=16
+MHZ=3800.000000
+MHZ_ESTIMATE=5500
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=2229
+CBCPUX=19569.5
+CBCPU1PEAK=2280
+CBCPUXPEAK=19627
+CBCPU1ARRAY={2280,2178}
+CBCPUXARRAY={19512,19627}
+C4DINFO=https://github.com/sp00n/cb23_scores
+C4DVERSION=23.200
+C4DBUILDID=RBBenchmark330542

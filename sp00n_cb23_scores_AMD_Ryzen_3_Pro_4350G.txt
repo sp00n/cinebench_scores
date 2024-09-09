@@ -1,11 +1,12 @@
 COMMENT=Values taken from:
 COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
 COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=https://www.cpu-monkey.com/en/cpu_benchmark-cinebench_r23_multi_core
 COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
-COMMENT=Generated at 2024-05-20T18:34:25.419Z
+COMMENT=Generated at 2024-09-09T01:06:54.899Z
 COMMENT=-------------------------------------------------
 
-PROCESSOR=AMD Ryzen 3 Pro 4350G
+PROCESSOR=AMD Ryzen 3 Pro 4350G [Review Score]
 CORES=4
 THREADS=8
 MHZ=3800.000000
@@ -18,6 +19,6 @@ CBCPU1PEAK=1143
 CBCPUXPEAK=5914
 CBCPU1ARRAY={1143}
 CBCPUXARRAY={5914}
-C4DINFO=
+C4DINFO=https://github.com/sp00n/cb23_scores
 C4DVERSION=23.200
-C4DBUILDID=Unknown
+C4DBUILDID=RBBenchmark330542

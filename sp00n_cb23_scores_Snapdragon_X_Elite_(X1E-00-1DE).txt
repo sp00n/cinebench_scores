@@ -1,11 +1,12 @@
 COMMENT=Values taken from:
 COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
 COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=https://www.cpu-monkey.com/en/cpu_benchmark-cinebench_r23_multi_core
 COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
-COMMENT=Generated at 2024-05-20T18:34:25.422Z
+COMMENT=Generated at 2024-09-09T01:06:54.901Z
 COMMENT=-------------------------------------------------
 
-PROCESSOR=Snapdragon X Elite
+PROCESSOR=Snapdragon X Elite (X1E-00-1DE) [Review Score]
 CORES=12
 THREADS=12
 MHZ=3800.000000
@@ -18,6 +19,6 @@ CBCPU1PEAK=1803
 CBCPUXPEAK=13093
 CBCPU1ARRAY={1803}
 CBCPUXARRAY={13093}
-C4DINFO=
+C4DINFO=https://github.com/sp00n/cb23_scores
 C4DVERSION=23.200
-C4DBUILDID=Unknown
+C4DBUILDID=RBBenchmark330542

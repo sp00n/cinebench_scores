@@ -1,0 +1,24 @@
+COMMENT=Values taken from:
+COMMENT=https://www.cgdirector.com/cinebench-r23-scores-updated-results/
+COMMENT=https://nanoreview.net/en/cpu-list/cinebench-scores
+COMMENT=https://www.cpu-monkey.com/en/cpu_benchmark-cinebench_r23_multi_core
+COMMENT=Latest updates at: https://github.com/sp00n/cb23_scores
+COMMENT=Generated at 2024-09-09T01:06:54.900Z
+COMMENT=-------------------------------------------------
+
+PROCESSOR=Intel Core i7 1260U [Review Score]
+CORES=10
+THREADS=12
+MHZ=4700.000000
+MHZ_ESTIMATE=4700
+CBTYPE=64 Bit
+OSVERSION=
+CBCPU1=1745
+CBCPUX=NaN
+CBCPU1PEAK=1745
+CBCPUXPEAK=NaN
+CBCPU1ARRAY={1745}
+CBCPUXARRAY={NaN}
+C4DINFO=https://github.com/sp00n/cb23_scores
+C4DVERSION=23.200
+C4DBUILDID=RBBenchmark330542
